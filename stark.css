@@ -1,0 +1,142 @@
+@charset "utf-8";
+
+body {
+    margin: 1px;
+}
+
+.head {
+    border: 1px solid;
+    border-color: red;
+    width: 100%;
+    height: 58px;
+    background: yellow;
+}
+
+.a1 {
+    float: left;
+    width: 30%;
+    font-size: 50px;
+    font-family: cursive;
+    color: red;
+    height: 58px;
+}
+
+.a2 {
+    float: left;
+    color: blue;
+    font-size: 30px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.menu {float: left;width: 15%;}
+
+ul.ul1 {
+    list-style: none;
+    margin: 0 0;
+    padding: 0;
+}
+
+.content {
+    float: left;
+    width: 100%;
+}
+
+li.li1 {
+    border-bottom: 1px solid;
+    background: green;
+    margin: 0 0;
+    padding: 0;
+    height: 37px;
+    border-color: #FFF;
+}
+
+ul.ul2 {
+    list-style: none;
+    position: absolute;
+    margin-left: 188px;
+    margin-top: -19px;
+    display: none;
+}
+
+li.li2 {
+    border-bottom: 1px solid;
+    height: 37px;
+    background: yellow;
+    width: 168px;
+}
+
+li.li1:hover ul {
+    display: block;
+}
+.tren {
+    width: 100%;
+}
+
+.sp {
+    border: 1px solid;
+    width: 13%;
+    padding: 5px;
+    float: left;
+	margin:5px;
+}
+
+.giua {
+    width: 60%;
+    float: left;
+    padding: 5px 5px;
+}
+.h11 {width: 100%;border: 1px solid;text-align: center;height: 90px;
+margin-top:10px;}
+
+.right {
+    float: left;
+    width: 21%;
+}
+
+.j1 {
+    border-bottom: 2px solid;
+    height: 37%;
+    background: yellow;
+    color: dodgerblue;
+}
+
+.k1 {
+    border: 1px solid;
+    text-align: center;
+    margin-top: 17px;
+}
+
+.o1 {
+    border-bottom: 1px solid;
+    height: 38px;
+    background: yellow;
+}
+
+.o2 {
+    width: 100%;
+}
+
+img.anh4 {
+    float: left;
+}
+img.anh1:hover {
+    transform: scale(2);
+}
+
+li.li1 {
+    text-shadow: aliceblue;
+}
+
+.giua {
+    border: 1px solid;
+    margin: 6px;
+}
+li.li1:hover {
+    background: blue;
+}
+body{font-size:14px;}
+* CSS Document */
+
